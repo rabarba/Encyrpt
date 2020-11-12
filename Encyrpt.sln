@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encyrpt", "Encyrpt\Encyrpt.csproj", "{36117D6A-2DD8-45E2-B561-2F7579D2E253}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36117D6A-2DD8-45E2-B561-2F7579D2E253}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36117D6A-2DD8-45E2-B561-2F7579D2E253}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36117D6A-2DD8-45E2-B561-2F7579D2E253}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36117D6A-2DD8-45E2-B561-2F7579D2E253}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B50834AD-C1E9-4DE9-873D-694E46B362E1}
+	EndGlobalSection
+EndGlobal

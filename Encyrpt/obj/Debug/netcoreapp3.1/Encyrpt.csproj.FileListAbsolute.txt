@@ -1,0 +1,13 @@
+C:\Users\ugurc\source\repos\Encyrpt\Encyrpt\bin\Debug\netcoreapp3.1\Encyrpt.exe
+C:\Users\ugurc\source\repos\Encyrpt\Encyrpt\bin\Debug\netcoreapp3.1\Encyrpt.deps.json
+C:\Users\ugurc\source\repos\Encyrpt\Encyrpt\bin\Debug\netcoreapp3.1\Encyrpt.runtimeconfig.json
+C:\Users\ugurc\source\repos\Encyrpt\Encyrpt\bin\Debug\netcoreapp3.1\Encyrpt.runtimeconfig.dev.json
+C:\Users\ugurc\source\repos\Encyrpt\Encyrpt\bin\Debug\netcoreapp3.1\Encyrpt.dll
+C:\Users\ugurc\source\repos\Encyrpt\Encyrpt\bin\Debug\netcoreapp3.1\Encyrpt.pdb
+C:\Users\ugurc\source\repos\Encyrpt\Encyrpt\obj\Debug\netcoreapp3.1\Encyrpt.csprojAssemblyReference.cache
+C:\Users\ugurc\source\repos\Encyrpt\Encyrpt\obj\Debug\netcoreapp3.1\Encyrpt.AssemblyInfoInputs.cache
+C:\Users\ugurc\source\repos\Encyrpt\Encyrpt\obj\Debug\netcoreapp3.1\Encyrpt.AssemblyInfo.cs
+C:\Users\ugurc\source\repos\Encyrpt\Encyrpt\obj\Debug\netcoreapp3.1\Encyrpt.csproj.CoreCompileInputs.cache
+C:\Users\ugurc\source\repos\Encyrpt\Encyrpt\obj\Debug\netcoreapp3.1\Encyrpt.dll
+C:\Users\ugurc\source\repos\Encyrpt\Encyrpt\obj\Debug\netcoreapp3.1\Encyrpt.pdb
+C:\Users\ugurc\source\repos\Encyrpt\Encyrpt\obj\Debug\netcoreapp3.1\Encyrpt.genruntimeconfig.cache
